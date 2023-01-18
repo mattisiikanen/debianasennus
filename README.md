@@ -23,7 +23,7 @@ Loin 17.1.2023 virtuaalikoneen Hyper-V:ssä (speksit yläpuolella mainittuna) va
 
 ## Asennus
 
-Asennus alkoi 18.1.2023 klo 13:07 käynnistämällä virtuaalikone, levykuva boottasi ja pyysi valitsemaan Main Menu kohdassa mitä tehdään, valitsin kohdan Debian GNU/Linux Live (kernel 5.10.0-20-amd64). ![Add file: Upload](Picture1.png)
+Asennus alkoi 18.1.2023 klo 13:07 käynnistämällä virtuaalikone, levykuva boottasi ja pyysi valitsemaan Main Menu kohdassa mitä tehdään, valitsin kohdan Debian GNU/Linux Live (kernel 5.10.0-20-amd64). ![Add file: Upload](Picture1.png) </br>
 Törmäsin heti alussa ongelmaan Hyper-V:n kanssa ja jouduin vaihtamaan virtuaalikoneen Generation asetuksen 1:stä 2:ksi. luomalla uuden virtuaalikoneen alusta. Pienen selvitys työn jälkeen loin Debianin ohjeiden (https://techlabs.blog/categories/debian-linux/create-a-debian-linux-virtual-machine-using-hyper-v) mukaisesti Hyper-V:lle uuden virtuaalikoneen ja asennus alkoi klo 13:30.
 
 Päästyäni alusta eteenpäin, päädyin Debianin livetyöpöydälle, josta pystyi valitsemaan kohdan Install Debian: </br>
