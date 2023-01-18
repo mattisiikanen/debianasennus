@@ -7,7 +7,7 @@ Käytän harjoituksissa omaa pyötätietokonettani, johon on asennettuna / konfi
 
 Tässä raportissa käyn läpi alusta saakka sen mitä tuli tehtyä ja mahdollisia ongelmakohtia. Aloitan käymällä läpi asennusympäristöni.
 
-## Ympäristö
+### Ympäristö
 
 Hyper-V kotikoneella
 Virtuaalikoneen speksit:
