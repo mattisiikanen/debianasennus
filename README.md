@@ -6,7 +6,7 @@ Tämä on ensimmäinen tehtävä / raportti
 
 Tässä raportissa käyn läpi alusta saakka sen mitä tuli tehtyä ja mahdollisia ongelmakohtia. Aloitan käymällä läpi testiympäristöni.
 
-##Ympäristö
+## Ympäristö
 
 Hyper-V kotikoneella
 Virtuaalikoneen speksit:
@@ -15,13 +15,13 @@ Virtuaalikoneen speksit:
 60 Gb HDD
 Generation 1 (Hyper-V pyytää määrittelemään)
 
-##Alustus
+## Alustus
 Alussa latasin Opettajan Teron tarjoamasta linkistä: https://cdimage.debian.org/images/unofficial/non-free/images-including-firmware/current-live/amd64/iso-hybrid/debian-live-11.6.0-amd64-xfce+nonfree.iso Debianin asennuskuvan.
 Lataus kesti n. 45 minuuttia, joka johtui joko oman netin hitaudesta tai ruuhkasta Debianin sivuilla.
 
 Loin 17.1.2023 virtuaalikoneen Hyper-V:ssä (speksit yläpuolella mainittuna) valmiuteen ennen seuraavana päivänä toteutettavaa asennusta.
 
-##Asennus
+## Asennus
 
 
 Lähteet:
