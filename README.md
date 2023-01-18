@@ -40,10 +40,11 @@ Kuva 5
 
 Kirjautumisen jälkeen päästiin työpöydälle: Kuva 6
 
-
+## Lopetus
 Kokonaisuudessaan asennukseen meni sähellyksineen noin 38 min. Harjoitus oli mielenkiintoinen ja uusi/vanha kokemus, koska en ole koskaan asentanut Debiania, mutta muita Linuxeja kyllä.
 
-Lähteet:
+
+## Lähteet:
 
 Karvinen, Tero: Oppitunti 2023-01-17, Linux-palvelimet - ICI003AS2A-3002 - Kurssi
 (https://hhmoodle.haaga-helia.fi/course/view.php?id=35775)
