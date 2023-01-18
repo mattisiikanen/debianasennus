@@ -52,8 +52,8 @@ Kokonaisuudessaan asennukseen meni sähellyksineen noin 38 min. Harjoitus oli mi
 
 ## Lähteet:
 
-Karvinen, Tero: Oppitunti 2023-01-17, Linux-palvelimet - ICI003AS2A-3002 - Kurssi
+Karvinen, Tero: Oppitunti 2023-01-17, Linux-palvelimet - ICI003AS2A-3002 - Kurssi </br>
 (https://hhmoodle.haaga-helia.fi/course/view.php?id=35775)
 
-Debian Linux: Create a Debian Linux Virtual Machine using Hyper-V
-https://techlabs.blog/categories/debian-linux/create-a-debian-linux-virtual-machine-using-hyper-v
+Debian Linux: Create a Debian Linux Virtual Machine using Hyper-V </br>
+(https://techlabs.blog/categories/debian-linux/create-a-debian-linux-virtual-machine-using-hyper-v)
