@@ -43,7 +43,7 @@ Tarkastelun jälkeen painettiin Install. Asennus kesti 7min (13:35-13:42). Asenn
 Uudelleekäynnistyksen jälkeen kone siirtyi Debianin kirjautumisruutuun, joihin syötettiin asennuksen aikana annetut tunnukset:
 ![Add file: Upload](Picture5.png)
 
-Kirjautumisen jälkeen päästiin työpöydälle:
+Kirjautumisen jälkeen päästiin työpöydälle:</br>
 ![Add file: Upload](Picture6.png)
 
 ## Lopetus
