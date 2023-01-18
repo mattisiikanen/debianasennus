@@ -63,5 +63,5 @@ Harjoitus oli mielenkiintoinen ja uusi/vanha kokemus, koska en ole koskaan asent
 Karvinen, Tero: Oppitunti 2023-01-17, Linux-palvelimet - ICI003AS2A-3002 - Kurssi </br>
 (https://hhmoodle.haaga-helia.fi/course/view.php?id=35775)
 
-Debian Linux: Create a Debian Linux Virtual Machine using Hyper-V </br>
+TechLabs, Debian Linux: Create a Debian Linux Virtual Machine using Hyper-V </br>
 (https://techlabs.blog/categories/debian-linux/create-a-debian-linux-virtual-machine-using-hyper-v)
