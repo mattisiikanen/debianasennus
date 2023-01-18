@@ -23,9 +23,10 @@ Loin 17.1.2023 virtuaalikoneen Hyper-V:ssä (speksit yläpuolella mainittuna) va
 
 ## Asennus
 
-Asennus alkoi 18.1.2023 klo 13:07 käynnistämällä virtuaalikone, levykuva boottasi ja pyysi valitsemaan Main Menu kohdassa mitä tehdään, valitsin kohdan Debian GNU/Linux Live (kernel 5.10.0-20-amd64) ![Add file: Upload](Picture1.png). Törmäsin heti alussa ongelmaan Hyper-V:n kanssa ja jouduin vaihtamaan virtuaalikoneen Generation asetuksen 1:stä 2:ksi. luomalla uuden virtuaalikoneen alusta. Pienen selvitys työn jälkeen loin Debianin ohjeiden (https://techlabs.blog/categories/debian-linux/create-a-debian-linux-virtual-machine-using-hyper-v) mukaisesti Hyper-V:lle uuden virtuaalikoneen ja asennus alkoi klo 13:30.
+Asennus alkoi 18.1.2023 klo 13:07 käynnistämällä virtuaalikone, levykuva boottasi ja pyysi valitsemaan Main Menu kohdassa mitä tehdään, valitsin kohdan Debian GNU/Linux Live (kernel 5.10.0-20-amd64). ![Add file: Upload](Picture1.png)
+Törmäsin heti alussa ongelmaan Hyper-V:n kanssa ja jouduin vaihtamaan virtuaalikoneen Generation asetuksen 1:stä 2:ksi. luomalla uuden virtuaalikoneen alusta. Pienen selvitys työn jälkeen loin Debianin ohjeiden (https://techlabs.blog/categories/debian-linux/create-a-debian-linux-virtual-machine-using-hyper-v) mukaisesti Hyper-V:lle uuden virtuaalikoneen ja asennus alkoi klo 13:30.
 
-Päästyäni alusta eteenpäin, päädyin Debianin livetyöpöydälle, josta pystyi valitsemaan Install Debian (kuva2)
+Päästyäni alusta eteenpäin, päädyin Debianin livetyöpöydälle, josta pystyi valitsemaan Install Debian ![Add file: Upload](Picture2.png)
 Asennusparametrit:
 Language: American English
 Location: Europe / Helsinki
@@ -33,12 +34,14 @@ Keyboard: Finnish (Default)
 Partitions: Erase disk (automatic partition), kryptaus ei valittuna
 Users: mattis (Matti Siikanen) / log in automatically without asking for the password ei valittuna
 
-Summary (kuva 3), tarkastelun jälkeen painettiin Install. Asennus kesti 7min (13:35-13:42). Asennuksen jälkeen kone meni boottiin ja pyysi irroittamaan siihen kytketyn levykuvan.(kuva 4)
+Summary: ![Add file: Upload](Picture3.png) 
+Tarkastelun jälkeen painettiin Install. Asennus kesti 7min (13:35-13:42). Asennuksen jälkeen kone meni boottiin ja pyysi irroittamaan siihen kytketyn levykuvan.![Add file: Upload](Picture4.png)
 
 Uudelleekäynnistyksen jälkeen kone siirtyi Debianin kirjautumisruutuun, joihin syötettiin asennuksen aikana annetut tunnukset:
-Kuva 5
+![Add file: Upload](Picture5.png)
 
-Kirjautumisen jälkeen päästiin työpöydälle: Kuva 6
+Kirjautumisen jälkeen päästiin työpöydälle:
+![Add file: Upload](Picture6.png)
 
 ## Lopetus
 Kokonaisuudessaan asennukseen meni sähellyksineen noin 38 min. Harjoitus oli mielenkiintoinen ja uusi/vanha kokemus, koska en ole koskaan asentanut Debiania, mutta muita Linuxeja kyllä.
