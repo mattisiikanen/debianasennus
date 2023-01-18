@@ -54,7 +54,8 @@ Kirjautumisen jälkeen päästiin työpöydälle:</br>
 ![Add file: Upload](Picture6.png)
 
 ### Viimeistely / Lopetus
-Kokonaisuudessaan asennukseen meni sähellyksineen noin 38 min. Harjoitus oli mielenkiintoinen ja uusi/vanha kokemus, koska en ole koskaan asentanut Debiania, mutta muita Linuxeja kyllä.
+Kokonaisuudessaan asennukseen meni sähellyksineen noin 38 min. Hyper-V virtuaalikoneongelman lisäksi asennuksessa ei ilmennyt muita ongelmia. </br>
+Harjoitus oli mielenkiintoinen ja uusi/vanha kokemus, koska en ole koskaan asentanut Debiania, mutta muita Linuxeja kyllä.
 
 
 ## Lähteet:
