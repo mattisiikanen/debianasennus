@@ -10,10 +10,10 @@ Tässä raportissa käyn läpi alusta saakka sen mitä tuli tehtyä ja mahdollis
 
 Hyper-V kotikoneella
 Virtuaalikoneen speksit:
-2 x CPU
-4 Gb RAM
-50 Gb HDD
-Generation 2 (Hyper-V pyytää määrittelemään)
+- 2 x CPU
+- 4 Gb RAM
+- 50 Gb HDD
+- Generation 2 (Hyper-V pyytää määrittelemään)
 
 ## Alustus
 Alussa latasin Opettajan Teron tarjoamasta linkistä: https://cdimage.debian.org/images/unofficial/non-free/images-including-firmware/current-live/amd64/iso-hybrid/debian-live-11.6.0-amd64-xfce+nonfree.iso Debianin asennuskuvan.
