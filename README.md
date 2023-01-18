@@ -9,7 +9,7 @@ Tässä raportissa käyn läpi alusta saakka sen mitä tuli tehtyä ja mahdollis
 
 ### Ympäristö
 
-Hyper-V kotikoneella (Host)
+Hyper-V kotikoneella (Host):
 - CPU: i5-9600K
 - RAM: 16Gb
 - HDD: 120Gb
