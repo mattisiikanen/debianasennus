@@ -35,10 +35,10 @@ Partitions: Erase disk (automatic partition), kryptaus ei valittuna
 Users: mattis (Matti Siikanen) / log in automatically without asking for the password ei valittuna
 
 Summary:
-
 ![Add file: Upload](Picture3.png)
 
-Tarkastelun jälkeen painettiin Install. Asennus kesti 7min (13:35-13:42). Asennuksen jälkeen kone meni boottiin ja pyysi irroittamaan siihen kytketyn levykuvan.![Add file: Upload](Picture4.png)
+Tarkastelun jälkeen painettiin Install. Asennus kesti 7min (13:35-13:42). Asennuksen jälkeen kone meni boottiin ja pyysi irroittamaan siihen kytketyn levykuvan.
+![Add file: Upload](Picture4.png)
 
 Uudelleekäynnistyksen jälkeen kone siirtyi Debianin kirjautumisruutuun, joihin syötettiin asennuksen aikana annetut tunnukset:
 ![Add file: Upload](Picture5.png)
