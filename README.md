@@ -9,7 +9,12 @@ Tässä raportissa käyn läpi alusta saakka sen mitä tuli tehtyä ja mahdollis
 
 ### Ympäristö
 
-Hyper-V kotikoneella
+Hyper-V kotikoneella (Host)
+- CPU: i5-9600K
+- RAM: 16Gb
+- HDD: 120Gb
+- Win 11 Pro x64
+
 Virtuaalikoneen speksit:
 - 2 x CPU
 - 4 Gb RAM
