@@ -42,7 +42,7 @@ Summary: </br>
 Tarkastelun jälkeen painettiin Install. Asennus kesti 7min (13:35-13:42). Asennuksen jälkeen kone meni boottiin ja pyysi irroittamaan siihen kytketyn levykuvan.</br>
 ![Add file: Upload](Picture4.png)
 
-Uudelleekäynnistyksen jälkeen kone siirtyi Debianin kirjautumisruutuun, joihin syötettiin asennuksen aikana annetut tunnukset:
+Uudelleenkäynnistyksen jälkeen kone siirtyi Debianin kirjautumisruutuun, johon syötettiin asennuksen aikana annetut tunnukset:
 ![Add file: Upload](Picture5.png)
 
 Kirjautumisen jälkeen päästiin työpöydälle:</br>
