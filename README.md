@@ -27,13 +27,14 @@ Asennus alkoi 18.1.2023 klo 13:07 käynnistämällä virtuaalikone, levykuva boo
 Törmäsin heti alussa ongelmaan Hyper-V:n kanssa ja jouduin vaihtamaan virtuaalikoneen Generation asetuksen 1:stä 2:ksi. luomalla uuden virtuaalikoneen alusta. Pienen selvitys työn jälkeen loin Debianin ohjeiden (https://techlabs.blog/categories/debian-linux/create-a-debian-linux-virtual-machine-using-hyper-v) mukaisesti Hyper-V:lle uuden virtuaalikoneen ja asennus alkoi klo 13:30.
 
 Päästyäni alusta eteenpäin, päädyin Debianin livetyöpöydälle, josta pystyi valitsemaan kohdan Install Debian: </br>
-![Add file: Upload](Picture2.png)
+![Add file: Upload](Picture2.png)</br>
+
 Asennusparametrit:
-Language: American English
-Location: Europe / Helsinki
-Keyboard: Finnish (Default)
-Partitions: Erase disk (automatic partition), kryptaus ei valittuna
-Users: mattis (Matti Siikanen) / log in automatically without asking for the password ei valittuna
+- Language: American English
+- Location: Europe / Helsinki
+- Keyboard: Finnish (Default)
+- Partitions: Erase disk (automatic partition), kryptaus ei valittuna
+- Users: mattis (Matti Siikanen) / log in automatically without asking for the password ei valittuna
 
 Summary: </br>
 ![Add file: Upload](Picture3.png)
